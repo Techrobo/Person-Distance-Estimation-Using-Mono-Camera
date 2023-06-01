@@ -1,0 +1,15 @@
+/.vscode
+/boxdetection.py
+/CaptureReferenceImage.py
+/classes.txt
+/demo_Recoder.py
+/DistanceEstimation.py
+/Naise Box-20230419T103617Z-001.zip
+/NaiseBox
+/output21.mp4
+/ReferenceImages
+/yolov4-crowdhuman-416x416.cfg
+/yolov4-crowdhuman-416x416_best.weights
+/yolov4-crowdhuman-608x608.cfg
+/yolov4-tiny.cfg
+/yolov4-tiny.weights
